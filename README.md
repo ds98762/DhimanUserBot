@@ -1,7 +1,7 @@
 <h1 align="center">❤️ 𝑫𝒉𝒊𝒎𝒂𝒏 𝑼𝒔𝒆𝒓 𝑩𝒐𝒕 ❤️</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/4b0a3d49d8bf1e2e85fea.png">
+  <img src="https://telegra.ph/file/6fffe0e7fecd0f8c6c568.png">
 </p>
 
   <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
